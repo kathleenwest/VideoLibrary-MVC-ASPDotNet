@@ -1,0 +1,10 @@
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\bin\Debug\VideoLibraryBusinessLayer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\bin\Debug\VideoLibraryBusinessLayer.pdb
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\bin\Debug\VideoLibraryBusinessLayer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\bin\Debug\VideoLibraryBusinessLayer.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Debug\VideoLibraryBusinessLayer.pdb

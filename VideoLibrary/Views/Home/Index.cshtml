@@ -1,0 +1,77 @@
+﻿@model System.Collections.ObjectModel.Collection<VideoLibraryBusinessLayer.Video>
+
+@{
+                /**/
+
+                ViewBag.Title = "Kathleen's Video Library";
+                Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null && Model.Count != 0)
+{
+    <!-- Beginning main -->
+    <main id="maincontent" role="main">
+
+        <h1 id="maincontent_label">Video Gallery</h1>
+
+        <!-- Beginning video gallery -->
+        <section id="video-gallery-container">
+
+                @foreach (VideoLibraryBusinessLayer.Video video in Model.Take(5))
+                {
+                    <div class="video-gallery-img">
+                        <img src="@video.PosterUrl" alt="@video.Title"
+                         onerror="this.src='http://emedika.bg/catalog/view/theme/Universum/image/cat_not_found.png'" />
+                    </div>                  
+                }
+        </section>
+        <!-- end video gallery -->
+        <!-- Beginning Search Form -->
+        <section id="search-container">
+            <h2>Search</h2>
+
+            <div class="search-fields">
+
+                @using (MvcForm f = Html.BeginForm("Results", "Home", FormMethod.Post))
+                {
+                <div class="search-field-item">
+                    @Html.Label("TitleSearch", "Title")
+
+                    @Html.TextBox("TitleSearch", "")
+                </div>
+
+                <div class="search-field-item">
+                    @Html.Label("YearSearch", "Year")
+
+                    @Html.TextBox("YearSearch", "")
+                </div>
+
+                <div class="search-field-item">
+                    @Html.Label("DirectorSearch", "Director")
+
+                    @Html.DropDownList("DirectorSearch",
+                                 (IEnumerable<SelectListItem>)ViewData["Directors"],
+                                  "Select Director",
+                                  new { @class = "form-control" })
+                </div>
+
+                <div class="search-field-item">
+                    <input type="submit" value="Search" />
+                </div>
+
+                }
+
+            </div>
+
+        </section>
+        <!-- End Search Form -->
+
+    </main>
+    <!-- End main -->
+
+}
+else
+{
+    <h2>Library is Empty.</h2>
+}
+

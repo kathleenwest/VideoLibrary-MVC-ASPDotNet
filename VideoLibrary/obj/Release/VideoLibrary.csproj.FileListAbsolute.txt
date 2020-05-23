@@ -1,0 +1,214 @@
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\VideoLibrary.dll.config
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\VideoLibrary.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\VideoLibrary.pdb
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csc.exe
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csc.exe.config
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csc.rsp
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csi.exe
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csi.exe.config
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\csi.rsp
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Console.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\vbc.exe
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\vbc.exe.config
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\vbc.rsp
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Antlr3.Runtime.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Owin.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Helpers.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Mvc.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Optimization.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Razor.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\VideoLibraryBusinessLayer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\WebGrease.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\VideoLibraryBusinessLayer.pdb
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Helpers.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Mvc.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Optimization.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.Razor.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\obj\Release\VideoLibrary.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\obj\Release\VideoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\obj\Release\VideoLibrary.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\obj\Release\VideoLibrary.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibrary\obj\Release\VideoLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\VideoLibrary.dll.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\VideoLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\VideoLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csc.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csc.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csc.rsp
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csi.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csi.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\csi.rsp
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Console.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\vbc.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\vbc.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\vbc.rsp
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Antlr3.Runtime.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\EntityFramework.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Newtonsoft.Json.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Owin.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Helpers.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Mvc.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Optimization.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Razor.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\VideoLibraryBusinessLayer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\WebGrease.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\VideoLibraryBusinessLayer.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Helpers.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Mvc.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Optimization.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.Razor.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Newtonsoft.Json.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\EntityFramework.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\obj\Release\VideoLibrary.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\obj\Release\VideoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\obj\Release\VideoLibrary.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\obj\Release\VideoLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibrary\obj\Release\VideoLibrary.pdb

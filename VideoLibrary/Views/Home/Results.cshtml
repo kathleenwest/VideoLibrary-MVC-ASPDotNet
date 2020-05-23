@@ -1,0 +1,42 @@
+﻿@model System.Collections.ObjectModel.Collection<VideoLibraryBusinessLayer.Video>
+
+@{
+    ViewBag.Title = "Search Results";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search Results</h1>
+
+@if (Model != null && Model.Count != 0)
+{
+    <div id="searchresults">
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Year</th>
+                    <th>Director</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (VideoLibraryBusinessLayer.Video video in Model)
+                {
+                <tr>
+                    <td>@Html.ActionLink(video.Title, "Details", new { id = video.VideoId})</td>
+                    <td>@video.Year</td>
+                    <td>@video.Director</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+}
+else
+{
+    <h2>None Found.</h2>
+}
+
+
+
+

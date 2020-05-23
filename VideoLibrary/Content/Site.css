@@ -1,0 +1,162 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#search-results th, td {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px 5px 5px 5px;
+    margin-left: 10px;
+}
+
+
+#search-container {
+    width: 100%;
+    height: auto;
+    align-items: flex-start;
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.search-fields {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.search-fields form {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.search-field-item {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.search-field-item label, input, select {
+    width: auto;
+    height: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px 5px 5px 5px;
+    margin-left: 10px;
+}
+
+
+    .search-field-item select {
+        background-color: white;
+        font-family: Arial,sans-serif;
+        font-size: 1.3rem;
+        height: 35px;
+        letter-spacing: 0;
+        margin: 10px;
+        padding: 0 10px;
+        width: 200px;
+    }
+
+
+#video-container {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-flow:row;
+    justify-content:center;
+    align-items:center;
+    padding:10px;
+}
+
+.video-pretty {
+    width: 25%;
+    min-width:250px;
+    text-align: center;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.video-info {
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column;
+    justify-content:space-around;
+}
+
+
+#video-img {
+    margin: auto;
+    width: auto;
+    height: auto;
+    max-height: 350px;
+    max-width: 250px;
+    align-self: center;
+}
+
+#video-gallery-container {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    min-width: 320px;
+    max-height: 300px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    flex-flow: row;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.video-gallery-img {
+    display: flex;
+}
+
+.video-gallery-img img {
+    width: 100%;
+    max-width:200px;
+    height: 100%;
+    object-fit:fill;
+    flex-shrink: 4;
+}
+

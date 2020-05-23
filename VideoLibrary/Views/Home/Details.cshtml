@@ -1,0 +1,81 @@
+﻿@model System.Collections.ObjectModel.Collection<VideoLibraryBusinessLayer.Video>
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null && Model.Count != 0)
+{
+<div id="videodetails">
+    @foreach (VideoLibraryBusinessLayer.Video video in Model)
+    {
+
+        <!-- Beginning main -->
+        <main id="maincontent" role="main">
+
+            <h1 id="maincontent_label">@video.Title</h1>
+
+            <!-- Beginning video information -->
+            <section id="video-container">
+                <div class="video-pretty">
+                    <img id="video-img" src="@video.PosterUrl" alt="@video.Title" 
+                         onerror="this.src='http://emedika.bg/catalog/view/theme/Universum/image/cat_not_found.png'">
+                </div>
+
+                <div class="video-info">
+                    <h3>Title</h3>
+                    <p id="video-title">@video.Title</p>
+                    <h3>Year</h3>
+                    <p id="video-year">@video.Year</p>
+                    <h3>Director</h3>
+                    <p id="video-director">@video.Director</p>
+                    <h3>Rating</h3>
+                    <p id="video-rating">
+                        @for (int i = 0; i < video.Rating; i++)
+                        {
+                            <strong>★</strong>
+                        }
+                    </p>
+                </div>
+
+            </section>
+            <!-- end video information -->
+            <!-- Beginning Plot -->
+            <section id="plot-container">
+                <h2 id="plot_label">Plot</h2>
+                <p id="plot_text">@video.Plot</p>
+            </section>
+            <!-- End Plot -->
+            <!-- Beginning reviews -->
+            <section id="reviews-container">
+
+                <h2 id="reviews_label">Reviews</h2>
+
+                @if (video.Reviews == null || video.Reviews.Count == 0)
+                {
+                    <p>None</p>
+                }
+                else
+                {
+                    foreach (VideoLibraryBusinessLayer.Review review in video.Reviews)
+                    {
+                        <p><b>@review.UserName</b></p>
+                        <p>@review.ReviewText</p>
+                    }
+                }
+
+            </section>
+            <!-- End reviews -->
+
+        </main>
+        <!-- End main -->
+    }
+</div>
+
+}
+else
+{
+    <h2>Video Not Found.</h2>
+}
+

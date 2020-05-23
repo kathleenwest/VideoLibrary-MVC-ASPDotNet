@@ -1,0 +1,12 @@
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\bin\Release\VideoLibraryBusinessLayer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\bin\Release\VideoLibraryBusinessLayer.pdb
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.dll
+C:\Users\KathleenWest\Dropbox\Projects\VideoLibrary\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\bin\Release\VideoLibraryBusinessLayer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\bin\Release\VideoLibraryBusinessLayer.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\VideoLibrary-MVC-ASPDotNet\VideoLibraryBusinessLayer\obj\Release\VideoLibraryBusinessLayer.pdb
